@@ -33,10 +33,6 @@ NLCSG92026-Annual-Revision/
 ├── PE/
 ├── Physics/
 ├── 中文/
-├── .obsidian/
-├── .trash/
-├── .gitattributes
-├── .DS_Store
 └── 00DATE.png
 ````
 
