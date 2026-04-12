@@ -1,5 +1,8 @@
 # NLCSG92026-Annual-Revision
 
+<img width="384" height="276" alt="00DATE" src="https://github.com/user-attachments/assets/e25a4fce-2e0c-438c-b90e-6855e898941f" />
+
+
 A structured annual revision repository for organizing study materials by subject.
 
 ## Overview
