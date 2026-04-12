@@ -63,4 +63,9 @@ Each subject folder may include:
 * exam tips
 * formula sheets or vocabulary lists
 
+---
 
+### Contributers
+- [@hahaTT](https://github.com/hahaTT0902)
+- [@Haoze-828](https://github.com/Haoze-828)
+- Charles
